@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './css/style.min.css';
 import useFetchJobs from './useFetchJobs';
 import { Container } from 'react-bootstrap';
 import Job from './Job';
